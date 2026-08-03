@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0",
+  "appName": "My App",
+  "maintenance": false,
+  "minAppVersion": 1
+}
